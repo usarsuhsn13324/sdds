@@ -1,0 +1,50 @@
+body {
+
+background-color: rgb(255, 255, 255);
+
+}
+
+h1 {
+  text-align: center;
+  background-color: dimgray;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+    .quadrado {
+
+      background-color: cadetblue;
+      border: black solid 10px;
+      width: 200px;
+      height: 200px;
+      padding: 20px;
+      
+    
+
+    }
+
+    .quadradoII {
+
+        background-color: gold;
+        width: 200px;
+        height: 200px;
+        padding: 20px;
+        border: rgb(0, 0, 0) solid;
+        border-width: 20px 10px;
+        margin: 0px 200px 0px 260px ;
+
+    }
+
+    .quadradoIII {
+
+    background-color: indianred;
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    color: black;
+    border-width: 10px;
+ }
+
+ p {
+    color: aliceblue;
+    font-family: cursive;
+ }
